@@ -1,0 +1,32 @@
+section {
+    color: black;
+}
+
+section {
+    border: 4px black solid;
+}
+
+section {
+    width: 300px;
+}
+
+section {
+        margin: 10px 50px 20px;;
+}
+ 
+header {
+    padding: 5%;
+}
+header {
+    border-bottom: 2px;
+}
+
+p {
+  text-align: center;
+  } 
+
+section {
+    border: 5%;
+    padding: 2%;
+    margin: 5%;
+    }
